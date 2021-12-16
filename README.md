@@ -8,7 +8,7 @@ With the advent of new language models, different natural language processing-ba
 
 
 ### Experimental Setting:
--40GB NVidia A100 memory GPU
--11GB Google Colab Tesla K80 GPU
+1. 40GB NVidia A100 memory GPU
+2. 11GB Google Colab Tesla K80 GPU
 
 *Due to the space constraints, we did not upload the pre-trained models on Github. If you are interested to use the pre-trained models, please email at tawkat@cs.ubc.ca.
